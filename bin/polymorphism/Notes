@@ -1,0 +1,38 @@
+Polymorphism Notes:-
+
+Types of Polymorphism:-
+
+1) Compile time / Static Polymorphism
+
+Achieved via method overloading.
+
+parameter, return type are differnet but same names. 
+
+ex -: multiple constructor of a class.
+
+2) Runtime time / Dynamic Polymorphism
+
+Achieved via method overriding.
+
+parameter and return type is same but body is different.
+
+if type is parent class and reference is subclass.
+Parent obj = new Child()
+
+which method will be called Child class , this is known as UPCASTING.
+
+How does JAVA know which method to run ?
+
+Dynamic method dispatch (a call to an overridden method is decided at runtime rather than compile time)
+
+A super class refernce variable can refer to a subclass object 
+
+Early and Late Binding
+
+Whenever a class is final all methods and varibles become final too.
+
+Static methods cannot be overridden.
+
+Static doesnot depends on objects but overriding depends on objects , so static methods cannot be overridden.
+
+

@@ -1,0 +1,20 @@
+Notes :-
+
+Package 
+   
+Packages are containers for classes.   
+
+Static 
+
+static variables doesnot belong to the object they belong to the class template. 
+
+Something which is not static belongs to an object.
+
+A static member can only access static data.
+
+We put something in static block if we want it to run only for the first time when the class loads in the memory.
+
+Static are resolved during compile time.
+
+Singleton Class
+make the contructor private . This will ensure that no one else can create an object for the class.

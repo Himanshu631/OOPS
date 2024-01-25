@@ -1,0 +1,20 @@
+Notes :-:-:-:-->
+
+Employee e1 = new Employee();
+
+Employee e1 happens at compile time.
+new Employee() happens at runtime.
+
+Wrapper Classes :-
+
+Integer, String ,etc
+These provides additional functionalities over normal int.
+
+final keyword :- 
+
+when any primitive datatype is final we cannot modify it.
+But for objects we can change the values but cannot reassign any other object to it.
+
+finalize keyword :-
+
+if we want to perform some task after java does garbage collection , we use finalize keyword. 
