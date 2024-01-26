@@ -1,0 +1,23 @@
+Access Control Notes:-
+
+   Modifier   | Class | Package | Subclass (same pkg)| Subclass (diff pkg)| World
+    public    |   Y   |    Y    |          Y         |          Y         |     Y 
+    protected |   Y   |    Y    |          Y         |          Y         |     N
+    nothing   |   Y   |    Y    |          Y         |          N         |     N
+    private   |   Y   |    N    |          N         |          N         |     N
+    
+    
+protected can only be accessed in subclass.
+
+InBuilt Packages:-
+
+java.lang :- contains essentials stuff of java (language specific stuff)
+java.io   :- file reading 
+java.util :- Data Structes and Collection Framework stuffs
+applet,awt,net :- gui based applications
+
+
+Object Class;-
+
+Parent of All Classes
+
