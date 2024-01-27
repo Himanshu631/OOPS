@@ -1,0 +1,6 @@
+Queue Notes:- 
+
+add() :- throws exception if not executed successfully.    :- offer() - returns false if not executed successfully
+element() :- throws exception if not executed successfully.    :- peek() - returns false if not executed successfully
+remove() :- throws exception if not executed successfully  :- poll() - returns false if not executed successfully
+

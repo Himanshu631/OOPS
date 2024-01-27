@@ -13,5 +13,7 @@ public class Main {
 		arr.add(5);
 		arr.add(3);
 		arr.add(7);
+		
+		ll.add(52);
 	}
 }

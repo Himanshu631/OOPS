@@ -12,10 +12,12 @@ I - Collections :- I - List
  			   I - Sorted Set  :- I - TreeSet
  			
   	I - Queue :- I - Deque  :- C - ArrayDeque
+  							:- C - LinkedList
  				 C - Priortity Queue
  				
 
 I - Map :- I - SortedMap :- I - NavigableMap :- C - Treemap
 		:- C - AbstractMap :- C - HashMap
 							- C - EnumMap
-					
+
+I - Iterator :- C - ListIterator	
