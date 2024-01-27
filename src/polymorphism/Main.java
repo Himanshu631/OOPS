@@ -8,7 +8,9 @@ public class Main {
 		Circle c = new Circle();
 		Square s = new Square();
 		
-		Shape test = new Triangle();
+//		Shape test = new Triangle();
+		
+		Shape test = new Circle();
 		test.area();
 		
 	}

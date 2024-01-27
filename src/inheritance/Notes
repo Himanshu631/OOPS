@@ -9,8 +9,8 @@ parent ob = new Child()
 ob can access only those things that are declared in parent as it of reference type parent
 
 Child ob = new Parent() // not allowed 
-As ob is type of Parent class and the refernce type is child class which will not be allowed to call the constructor 
-of the parent. 
+As ob is type of Parent class and the reference type is child class which will not be allowed to call the constructor 
+of the parent.
 
 Super keyword (2 use cases):-
 1) whenever a subclass needs to refer to super class from which it is derived.
