@@ -1,0 +1,16 @@
+Enums: - group of variables that cannot be changed. used when we want a fixed set of objects
+
+all enum extends java.lang.enum class.
+enum cannot be a super class.
+abstract not allowed
+Enums can implement interfaces
+
+enum Week {
+		Monday, Tuesday, Wednesday, ThursDay, Friday, Saturday, Sunday
+	}
+	
+Monday, Tuesday, Wednesday, ThursDay, Friday, Saturday, Sunday 
+:- are enum constants
+   public static final
+   type is Week
+   since it is final we can create Child Enums

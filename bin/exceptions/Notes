@@ -1,0 +1,8 @@
+Notes
+
+Object  :-    Throwable   :- Exceptions :- Checked    - detected when program is compliling
+					       				 - Unchecked  - detected when the program is running.
+					       - Errors
+					       
+throw :- used to throw an exception
+throws :- to declare exceptions that the method may throw exceptions

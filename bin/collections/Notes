@@ -1,0 +1,21 @@
+Collections Notes 
+
+I - Collections :- I - List
+				   I - Set 
+			       I - Queue
+			       
+ 	I - List :- C - ArrayList
+ 				C - LinkedList
+ 				C - Vector     :- C - Stack
+ 
+  	I - Set :- I - HashSet     :- I - LinkedHashSet
+ 			   I - Sorted Set  :- I - TreeSet
+ 			
+  	I - Queue :- I - Deque  :- C - ArrayDeque
+ 				 C - Priortity Queue
+ 				
+
+I - Map :- I - SortedMap :- I - NavigableMap :- C - Treemap
+		:- C - AbstractMap :- C - HashMap
+							- C - EnumMap
+					

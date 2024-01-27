@@ -54,11 +54,10 @@ public class WildCardExample <T extends Number> {
 	public static void main(String[] args) {
 		WildCardExample<Integer> n = new WildCardExample<>();
 		
-		n.add(3);
-		n.add(13);
 		n.add(23);
-		n.set(2, 25);
-		n.set(3, 25);
+		n.add(83);
+		n.add(93);
+		n.add(73);
 		n.set(4, 25);
 		
 		System.out.println(n);

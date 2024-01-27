@@ -3,6 +3,7 @@ package generics;
 import java.util.Arrays;
 
 public class CustomGenericArrayList <T> {
+	
 	private Object[] data;
 	private static int DEFAULT_SIZE = 5;
 	private int size = 0;

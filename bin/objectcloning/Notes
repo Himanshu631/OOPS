@@ -1,0 +1,11 @@
+Object Cloning Notes :
+
+Done via Cloneable interface 
+
+must specify throws CloneNotSupported
+
+implements Clonable :- used to tell jvm that you are allowed to create clone of these objects.
+
+Shallow Copy :- primitive data types would be copied as it is but the refernce varibales will point to the same object.
+
+Deep Copy : makes copy for everything  
