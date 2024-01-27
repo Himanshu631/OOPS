@@ -1,0 +1,20 @@
+Interface Notes:-
+
+Interface contains abstract functions .
+By default func are pubic and abstract ,variables are static and final by default.
+
+Class and Interface difference :-
+
+A class maintains state information but interface cannot as variables are static and final.
+
+A class can implement more than one interface but cannot extends more than one class.
+
+static methods in interfaces must be declared and should always have a body. call via interface name
+
+Java 8 feature :-
+
+default keyword 
+
+Nested interface:-
+
+can be declared as private, public and protected but top level interface should be public
